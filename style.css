@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(svgz/base.svgz);
+    background: url(svgs/base.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -10,7 +10,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgz);
+    background: url(svgs/triggers.svgz);
     opacity: 0;
 }
 
@@ -18,12 +18,12 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper.svgz) no-repeat;
+    background: url(svgs/bumper.svgz) no-repeat;
     opacity: 0;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(start.svgz);
+    background: url(svgs/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -33,19 +33,19 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.svgz);
+    background: url(svgs/face.svgz);
 }
 
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.svgz);
+    background: url(svgs/sticks.svgz);
     height: 94px;
     width: 94px;
 }
 
 
 .ds4 .face {
-    background: url(dpad.svgz);
+    background: url(svgs/dpad.svgz);
     position: absolute;
 }
