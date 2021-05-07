@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/base.svgz);
+    background: url(Final/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -10,7 +10,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/triggers.svgz);
+    background: url(/triggers.png);
     opacity: 0;
 }
 
@@ -18,12 +18,12 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/bumper.svgz) no-repeat;
+    background: url(Final/bumper.png) no-repeat;
     opacity: 0;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/start.svgz);
+    background: url(Final/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -33,19 +33,19 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/face.svgz);
+    background: url(Final/face.png);
 }
 
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/sticks.svgz);
+    background: url(Final/sticks.png);
     height: 94px;
     width: 94px;
 }
 
 
 .ds4 .face {
-    background: url(https://github.com/Sliphs/SliphOBSController/blob/master/svgs/dpad.svgz);
+    background: url(Final/dpad.png);
     position: absolute;
 }
