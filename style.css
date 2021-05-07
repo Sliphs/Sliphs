@@ -1,27 +1,27 @@
 .controller.ds4.white {
-  background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/base.svgz) !important;
+  background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/base.svgz) !important;
 }
 
 .ds4.white .stick {
-  background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/sticks.svgz) !important;
+  background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/sticks.svgz) !important;
 }
 
 .ds4.white .face {
-  background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/dpad.svgz) !important;
+  background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/dpad.svgz) !important;
 }
 
 .ds4.white .bumper {
-    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/bumper.svgz) !important;
+    background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/bumper.svgz) !important;
 }
 
 .ds4.white .trigger {
-    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/triggers.svgz) !important;
+    background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/triggers.svgz) !important;
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/touchpad.svgz) !important;
+    background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/touchpad.svgz) !important;
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/start.svgz) !important;
+    background-image: url(https://Sliphs.github.io/SliphOBSController/svgs/start.svgz) !important;
 }
