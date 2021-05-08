@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(svgs/base.svgz);
+    background: url(Final/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -10,7 +10,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(/triggers.png);
+    background: url(Final/triggers.png);
     opacity: 0;
 }
 
